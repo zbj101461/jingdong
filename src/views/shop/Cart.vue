@@ -112,6 +112,7 @@ const useCartEffect=(shopId)=>{
            
             return count.toFixed(2)
         })
+       
      
       const allChecked=computed(()=>{
             const productList=cartList[shopId]
