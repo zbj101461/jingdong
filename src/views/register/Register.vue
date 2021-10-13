@@ -14,6 +14,7 @@
             type="password"
              placeholder="请输入密码"
              v-model="password"
+             <!-- 4555 -->
               />
         </div>
          <div  class="wrapper__input">
